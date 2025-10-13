@@ -1,0 +1,22 @@
+# Azure OpenAI Configuration
+# Copy this file to .env and fill in your actual values
+
+# Azure OpenAI Endpoint
+AZURE_OPENAI_ENDPOINT=https://your-resource-name.openai.azure.com/
+
+# Azure OpenAI API Key
+AZURE_OPENAI_API_KEY=your-api-key-here
+
+# Azure OpenAI API Version
+AZURE_OPENAI_API_VERSION=2024-02-15-preview
+
+# Azure OpenAI Deployment Names
+AZURE_OPENAI_DEPLOYMENT=your-chat-deployment-name
+AZURE_OPENAI_EMBEDDING_DEPLOYMENT=your-embedding-deployment-name
+
+# Optional: If you have separate chat deployment
+# AZURE_CHATOPENAI_DEPLOYMENT=your-chat-deployment-name
+# AZURE_CHATOPENAI_ENDPOINT=https://your-resource-name.openai.azure.com/
+# AZURE_CHATOPENAI_API_KEY=your-api-key-here
+# AZURE_CHATOPENAI_API_VERSION=2024-02-15-preview
+

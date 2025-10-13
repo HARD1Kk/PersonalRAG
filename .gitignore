@@ -1,0 +1,127 @@
+# Personal Knowledge Worker - .gitignore
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.virtualenv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Vector Database
+vector_db/
+*.db
+*.sqlite
+*.sqlite3
+chroma.sqlite3
+
+# Logs
+*.log
+logs/
+personal_knowledge_worker.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Cache
+.cache/
+__pycache__/
+
+# Model files (if any)
+*.model
+*.pkl
+*.pickle
+
+# Data files (uncomment if you don't want to track data)
+# my-knowledge-worker-data/
+# *.pdf
+# *.docx
+# *.txt
+
+# API keys and credentials
+secrets.json
+credentials.json
+api_keys.txt
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Test files
+test_*
+*_test.py
+tests/
+
+# Documentation build
+docs/_build/
+site/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
