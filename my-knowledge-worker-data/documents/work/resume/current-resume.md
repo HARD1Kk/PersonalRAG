@@ -7,12 +7,23 @@ SUMMARY
 I'm a Full Stack Developer with experience in C++, Python, JavaScript and SQL. I enjoy building user-friendly, visually appealing interfaces and am excited
 about joining a great organization where I can keep learning, take on new challenges, and create awesome user experiences.
 
-EDUCATION
-Qualification Institute CGPA Year
-B.Tech - CSE Maharaja Agrasen Institute of Technology, Delhi 8.2(till 7th sem) 2025
-12th - CBSE SRDAV Public School Dayanand Vihar, Delhi 8.3 2021
-10th - CBSE SRDAV Public School Dayanand Vihar, Delhi 8.2 2019
+## EDUCATION
 
+- **B.Tech - Computer Science & Engineering**
+  - Maharaja Agrasen Institute of Technology, Delhi
+  - CGPA: 8.2 (up to 7th sem), Year: 2025
+
+- **CBSE 12th**
+  - SRDAV Public School Dayanand Vihar, Delhi, CGPA: 8.3, Year: 2021
+
+- **CBSE 10th**
+  - SRDAV Public School Dayanand Vihar, Delhi, CGPA: 8.2, Year: 2019
+
+## CERTIFICATIONS
+
+- Data Structures and Algorithms, Coding Ninjas
+- Full Stack Developer, Udemy
+- Generative AI & Data Science, IBM/Watson
 EXPERIENCE
 CSRBOX : Artificial Intelligence and Data Science Virtual Internship
 ● Worked on AI and Data Science projects, applying machine learning algorithms and statistical techniques to solve real-world problems.
