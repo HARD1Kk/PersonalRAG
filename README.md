@@ -205,8 +205,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Hardik**
 - Email: hardik216730@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
 
 ## 🙏 Acknowledgments
 
